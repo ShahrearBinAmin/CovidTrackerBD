@@ -1,16 +1,12 @@
 
 TITLE: 
-App - Free HTML5 App Template Built with Bootstrap 4
-
-AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
-
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+COVID Tracker BD - An android app for showing number of COVID-19 patients in Bangladesh
 
 
 CREDITS:
+
+FreeHTML5.co
+http://freehtml5.co/
 
 Bootstrap
 http://getbootstrap.com/
